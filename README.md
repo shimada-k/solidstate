@@ -1,0 +1,2 @@
+# solidstate
+ソリッドステートのblockchain実装
